@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

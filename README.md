@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/lalith557/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/lalith557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -50,4 +51,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/lalith557/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/lalith557/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/lalith557/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

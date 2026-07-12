@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lalith557/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/lalith557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/lalith557/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -99,9 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/lalith557/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lalith557/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

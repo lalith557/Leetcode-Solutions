@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/lalith557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lalith557/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lalith557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/lalith557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lalith557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/lalith557/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |

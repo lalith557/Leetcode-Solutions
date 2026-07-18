@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lalith557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/lalith557/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/lalith557/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lalith557/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

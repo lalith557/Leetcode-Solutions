@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lalith557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lalith557/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalith557/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/lalith557/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lalith557/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |

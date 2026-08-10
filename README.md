@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/lalith557/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/lalith557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/lalith557/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lalith557/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lalith557/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/lalith557/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lalith557/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/lalith557/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Database

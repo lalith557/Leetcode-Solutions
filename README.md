@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lalith557/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/lalith557/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Database
 |  |
 | ------- |

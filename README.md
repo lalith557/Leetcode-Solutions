@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lalith557/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lalith557/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3870-count-commas-in-range](https://github.com/lalith557/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3959-check-good-integer](https://github.com/lalith557/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |

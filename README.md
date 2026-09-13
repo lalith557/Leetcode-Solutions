@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lalith557/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/lalith557/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
+| [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Database
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/lalith557/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 ## Memoization
 |  |

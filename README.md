@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/lalith557/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lalith557/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/lalith557/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |

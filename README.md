@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lalith557/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lalith557/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/lalith557/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |

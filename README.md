@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/lalith557/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/lalith557/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/lalith557/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/lalith557/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lalith557/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

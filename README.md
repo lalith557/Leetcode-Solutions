@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2678-number-of-senior-citizens](https://github.com/lalith557/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
+| [2810-faulty-keyboard](https://github.com/lalith557/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3280-convert-date-to-binary](https://github.com/lalith557/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/lalith557/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/lalith557/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |

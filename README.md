@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/lalith557/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3174-clear-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3280-convert-date-to-binary](https://github.com/lalith557/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lalith557/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/lalith557/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [3174-clear-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/lalith557/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
+| [3174-clear-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |

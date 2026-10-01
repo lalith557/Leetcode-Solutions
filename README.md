@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lalith557/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/lalith557/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Database

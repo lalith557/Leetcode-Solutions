@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/lalith557/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3019-number-of-changing-keys](https://github.com/lalith557/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |

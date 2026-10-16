@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/lalith557/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1656-design-an-ordered-stream](https://github.com/lalith557/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/lalith557/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/lalith557/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/lalith557/Leetcode-Solutions/tree/master/2103-rings-and-rods) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/lalith557/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/lalith557/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/lalith557/Leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/lalith557/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/lalith557/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |

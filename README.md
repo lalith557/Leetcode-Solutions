@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/lalith557/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2315-count-asterisks](https://github.com/lalith557/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2678-number-of-senior-citizens](https://github.com/lalith557/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lalith557/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |

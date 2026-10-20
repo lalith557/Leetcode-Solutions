@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/lalith557/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/lalith557/Leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lalith557/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/lalith557/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lalith557/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

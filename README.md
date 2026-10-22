@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3019-number-of-changing-keys](https://github.com/lalith557/Leetcode-Solutions/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/lalith557/Leetcode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lalith557/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/lalith557/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/lalith557/Leetcode-Solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/lalith557/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |

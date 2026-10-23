@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lalith557/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lalith557/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/lalith557/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lalith557/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/lalith557/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lalith557/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lalith557/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1656-design-an-ordered-stream](https://github.com/lalith557/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 ## Binary Search

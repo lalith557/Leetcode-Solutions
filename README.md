@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/lalith557/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/lalith557/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/lalith557/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/lalith557/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/lalith557/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/lalith557/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/lalith557/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4006-count-valid-prefixes](https://github.com/lalith557/Leetcode-Solutions/tree/master/4006-count-valid-prefixes) |
 ## Database
 |  |

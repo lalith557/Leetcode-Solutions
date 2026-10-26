@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/lalith557/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lalith557/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2788-split-strings-by-separator](https://github.com/lalith557/Leetcode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/lalith557/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/lalith557/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lalith557/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2788-split-strings-by-separator](https://github.com/lalith557/Leetcode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/lalith557/Leetcode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/lalith557/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |

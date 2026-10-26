@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/lalith557/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/lalith557/Leetcode-Solutions/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/lalith557/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/lalith557/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/lalith557/Leetcode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |

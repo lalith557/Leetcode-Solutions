@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
+| [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/lalith557/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1656-design-an-ordered-stream](https://github.com/lalith557/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/lalith557/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |

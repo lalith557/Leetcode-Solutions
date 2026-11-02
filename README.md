@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/lalith557/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/lalith557/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/lalith557/Leetcode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/lalith557/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/lalith557/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |

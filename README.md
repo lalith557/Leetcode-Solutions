@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/lalith557/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/lalith557/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lalith557/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/lalith557/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0748-shortest-completing-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lalith557/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/lalith557/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/lalith557/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0748-shortest-completing-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |

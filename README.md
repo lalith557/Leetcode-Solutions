@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/lalith557/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/lalith557/Leetcode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2278-percentage-of-letter-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/lalith557/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/lalith557/Leetcode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/lalith557/Leetcode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/lalith557/Leetcode-Solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |

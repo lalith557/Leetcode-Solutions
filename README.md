@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/lalith557/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lalith557/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/lalith557/Leetcode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2413-smallest-even-multiple](https://github.com/lalith557/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/lalith557/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/lalith557/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1903-largest-odd-number-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/lalith557/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lalith557/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/lalith557/Leetcode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/lalith557/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/lalith557/Leetcode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/lalith557/Leetcode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |

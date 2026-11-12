@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/lalith557/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/lalith557/Leetcode-Solutions/tree/master/1496-path-crossing) |
 | [1656-design-an-ordered-stream](https://github.com/lalith557/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/lalith557/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1370-increasing-decreasing-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/lalith557/Leetcode-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/lalith557/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1446-consecutive-characters) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/lalith557/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lalith557/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |

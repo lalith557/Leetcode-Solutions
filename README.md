@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lalith557/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/lalith557/Leetcode-Solutions/tree/master/2103-rings-and-rods) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lalith557/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/lalith557/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/lalith557/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/lalith557/Leetcode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2278-percentage-of-letter-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lalith557/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2315-count-asterisks](https://github.com/lalith557/Leetcode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/lalith557/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/lalith557/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lalith557/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/lalith557/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/lalith557/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |

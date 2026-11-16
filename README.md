@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/lalith557/Leetcode-Solutions/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/lalith557/Leetcode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/lalith557/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/lalith557/Leetcode-Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2278-percentage-of-letter-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0929-unique-email-addresses](https://github.com/lalith557/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/lalith557/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0929-unique-email-addresses](https://github.com/lalith557/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0929-unique-email-addresses](https://github.com/lalith557/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |

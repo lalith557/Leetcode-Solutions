@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/lalith557/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/lalith557/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/lalith557/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lalith557/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/lalith557/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/lalith557/Leetcode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/lalith557/Leetcode-Solutions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/lalith557/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/lalith557/Leetcode-Solutions/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/lalith557/Leetcode-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1436-destination-city](https://github.com/lalith557/Leetcode-Solutions/tree/master/1436-destination-city) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lalith557/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/lalith557/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1331-rank-transform-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

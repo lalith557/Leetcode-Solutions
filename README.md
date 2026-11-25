@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/lalith557/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/lalith557/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2506-count-pairs-of-similar-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/lalith557/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lalith557/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -620,4 +622,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/lalith557/Leetcode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

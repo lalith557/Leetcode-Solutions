@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/lalith557/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/lalith557/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lalith557/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/lalith557/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lalith557/Leetcode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/lalith557/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/lalith557/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lalith557/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lalith557/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/lalith557/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3959-check-good-integer](https://github.com/lalith557/Leetcode-Solutions/tree/master/3959-check-good-integer) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/lalith557/Leetcode-Solutions/tree/master/3986-number-of-elapsed-seconds-between-two-times) |

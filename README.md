@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/lalith557/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/lalith557/Leetcode-Solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/lalith557/Leetcode-Solutions/tree/master/1002-find-common-characters) |
+| [1051-height-checker](https://github.com/lalith557/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lalith557/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/lalith557/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/lalith557/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/lalith557/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1051-height-checker](https://github.com/lalith557/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/lalith557/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/lalith557/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lalith557/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -633,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lalith557/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/lalith557/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

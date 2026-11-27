@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/lalith557/Leetcode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/lalith557/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lalith557/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/lalith557/Leetcode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/lalith557/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/lalith557/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/lalith557/Leetcode-Solutions/tree/master/2103-rings-and-rods) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/lalith557/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lalith557/Leetcode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2325-decode-the-message](https://github.com/lalith557/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/lalith557/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
